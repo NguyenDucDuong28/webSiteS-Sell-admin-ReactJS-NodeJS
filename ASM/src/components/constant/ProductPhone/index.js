@@ -1,0 +1,51 @@
+export const GetPhone = [
+  {
+    id: 1,
+    name: "iPhone 15 Pro Max 256GB",
+    src: "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/10/30/638342502751589917_ip-15-pro-max-dd-bh-2-nam.jpg",
+    cost: 3499000,
+    promotional: 33.99,
+  },
+  {
+    id: 2,
+    name: "iPhone 15 Pro Max 256GB",
+    src: "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/31/638158962810512367_ss-galaxy-s22-dd-icon.jpg",
+    cost: 34.99,
+    promotional: 33.99,
+  },
+  {
+    id: 3,
+    name: "iPhone 15 Pro Max 256GB",
+    src: "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/10/30/638342502751589917_ip-15-pro-max-dd-bh-2-nam.jpg",
+    cost: 34.99,
+    promotional: 33.99,
+  },
+  {
+    id: 4,
+    name: "iPhone 15 Pro Max 256GB",
+    src: "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/10/30/638342502751589917_ip-15-pro-max-dd-bh-2-nam.jpg",
+    cost: 34.99,
+    promotional: 33.99,
+  },
+  {
+    id: 6,
+    name: "iPhone 15 Pro Max 256GB",
+    src: "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/10/30/638342502751589917_ip-15-pro-max-dd-bh-2-nam.jpg",
+    cost: 34.99,
+    promotional: 33.99,
+  },
+  {
+    id: 7,
+    name: "iPhone 15 Pro Max 256GB",
+    src: "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/10/30/638342502751589917_ip-15-pro-max-dd-bh-2-nam.jpg",
+    cost: 34.99,
+    promotional: 33.99,
+  },
+  {
+    id: 5,
+    name: "iPhone 15 Pro Max 256GB",
+    src: "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/10/30/638342502751589917_ip-15-pro-max-dd-bh-2-nam.jpg",
+    cost: 34.99,
+    promotional: 33.99,
+  },
+];
